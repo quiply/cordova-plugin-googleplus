@@ -1,3 +1,9 @@
+# Clone of Google Sign-In Cordova/PhoneGap Plugin Version 5.1.1
+
+## Issue iOS link problem between Cordova/PhoneGap Plugin and  Google Sign-In Cordova/PhoneGap Plugin
+ 
+[Problem with duplicate symbols errors when compiling in iOS ](https://github.com/EddyVerbruggen/cordova-plugin-googleplus/issues/247) 
+
 # Google Sign-In Cordova/PhoneGap Plugin
 by [Eddy Verbruggen](http://twitter.com/eddyverbruggen),
 with great assistance from Sam Muggleworth ([PointSource, LLC](https://github.com/PointSource))
